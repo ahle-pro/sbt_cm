@@ -2,7 +2,7 @@
 
 ### I cannot connect to the eyetracker from HN Pro platform, what to do ?
 
-In some cases, Happy Neuron Pro cannot connect to the Eyetracker service due to the constraints by [same origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy).
+In some cases, Happy Neuron Pro games cannot connect to the Eyetracker service due to the constraints by [same origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy).
 
 Solution: change the protocol HTTPS to HTTP to help the HN Pro could connect to the eyetracker.
 
