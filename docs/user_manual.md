@@ -12,7 +12,7 @@ For example:
 |--------------------------------------------|------|---|
 | https://www.scientificbraintrainingpro.fr/ | Fail |   |
  
- NOTE: after login, the site automatically changes to HTTPS protocol. It should be MANUALLY changed to HTTP for working.
+ NOTE: after login, the site automatically changes to HTTPS protocol. It should be MANUALLY changed to HTTP for working by typing in web address bar.
  
  Useful information:
  [How to know HTTPS or HTTP in browser ?](https://www.howtogeek.com/292076/how-do-you-view-ssl-certificate-details-in-google-chrome/)
