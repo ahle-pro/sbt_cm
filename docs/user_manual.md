@@ -1,8 +1,3 @@
-## How to do that ?
-
-
-
-
 ## Issues
 
 ### I cannot connect to the eyetracker from HN Pro platform, what to do ?
